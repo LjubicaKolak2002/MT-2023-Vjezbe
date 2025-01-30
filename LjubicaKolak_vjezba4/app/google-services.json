@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578056307129",
+    "project_id": "vjezba4-d1ac9",
+    "storage_bucket": "vjezba4-d1ac9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578056307129:android:d74d9f1f5ef9f91932f668",
+        "android_client_info": {
+          "package_name": "com.example.vjezba4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgV1nF3aA2xRO5hs9fAQMGefKVTkW9iQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
