@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDgV1nF3aA2xRO5hs9fAQMGefKVTkW9iQk"
+          "current_key": dotenv.env['GOOGLE_API_KEY']
         }
       ],
       "services": {
